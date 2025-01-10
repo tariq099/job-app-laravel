@@ -39,7 +39,7 @@ for  users, jobs and bookmarks
 php artisan db:seed
 ```
 
-the test:
+the test account:
 
 -   Email: test@test.com
 -   Password: 12345678
